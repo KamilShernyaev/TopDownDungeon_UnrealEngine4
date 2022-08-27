@@ -1,0 +1,1296 @@
+﻿Log file open, 06/18/22 00:05:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MPTopDownKit415
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282289
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([Steam]) failed
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.06.17-19.05.00:986][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.00:986][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.17-19.05.00:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.00:987][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.17-19.05.01:005][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.17-19.05.01:006][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.17-19.05.01:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.17-19.05.01:006][  0]LogHAL: Display: Platform has ~ 12 GB [12714037248 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.17-19.05.01:006][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.17-19.05.01:006][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.06.17-19.05.01:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Scalability.ini]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.17-19.05.01:007][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.17-19.05.01:008][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.17-19.05.01:008][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.17-19.05.01:008][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.17-19.05.01:008][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Engine.ini]
+[2022.06.17-19.05.01:008][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Config/Windows/Editor.ini]
+[2022.06.17-19.05.01:008][  0]LogInit: Computer: LAPTOP-ELP859A4
+[2022.06.17-19.05.01:008][  0]LogInit: User: abroh
+[2022.06.17-19.05.01:008][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.17-19.05.01:008][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.17-19.05.01:008][  0]LogMemory: Memory total: Physical=11.8GB (12GB approx)
+[2022.06.17-19.05.01:008][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.17-19.05.01:008][  0]LogMemory: Process Physical Memory: 147.08 MB used, 147.08 MB peak
+[2022.06.17-19.05.01:008][  0]LogMemory: Process Virtual Memory: 132.47 MB used, 132.47 MB peak
+[2022.06.17-19.05.01:008][  0]LogMemory: Physical Memory: 7507.66 MB used,  4617.39 MB free, 12125.05 MB total
+[2022.06.17-19.05.01:008][  0]LogMemory: Virtual Memory: 134198392.00 MB used,  19332.54 MB free, 134217728.00 MB total
+[2022.06.17-19.05.01:015][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.17-19.05.01:059][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.17-19.05.01:060][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.17-19.05.01:060][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.06.17-19.05.01:065][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.06.17-19.05.01:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.17-19.05.01:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.17-19.05.01:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.17-19.05.01:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.17-19.05.01:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.17-19.05.01:066][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.17-19.05.01:066][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.17-19.05.01:066][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.17-19.05.01:075][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.17-19.05.01:088][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.17-19.05.01:088][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.17-19.05.01:248][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.17-19.05.01:352][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.17-19.05.01:352][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.17-19.05.01:352][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.17-19.05.01:352][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.17-19.05.01:449][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.06.17-19.05.01:449][  0]LogD3D11RHI:       5980/0/6062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.06.17-19.05.01:478][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.06.17-19.05.01:478][  0]LogD3D11RHI:       128/0/6062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:       0/0/6062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     SubSysId    : 13321025
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     SharedSystemMemory : 6357018624 bytes
+[2022.06.17-19.05.01:480][  0]LogD3D11RHI:     AdapterLuid : 0 56966
+[2022.06.17-19.05.01:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.17-19.05.01:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.17-19.05.01:486][  0]LogWindows: EnumDisplayDevices:
+[2022.06.17-19.05.01:486][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.06.17-19.05.01:486][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.17-19.05.01:486][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.17-19.05.01:487][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2022.06.17-19.05.01:487][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.06.17-19.05.01:487][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     SubSysId    : 13321025
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     SharedSystemMemory : 6357018624 bytes
+[2022.06.17-19.05.01:487][  0]LogD3D11RHI:     AdapterLuid : 0 56966
+[2022.06.17-19.05.01:540][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.17-19.05.01:541][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.17-19.05.01:541][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.17-19.05.01:568][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.06.17-19.05.01:614][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.17-19.05.01:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.17-19.05.01:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.17-19.05.01:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.17-19.05.01:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.17-19.05.02:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.17-19.05.02:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.17-19.05.02:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.17-19.05.02:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.17-19.05.02:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.17-19.05.02:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.17-19.05.02:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.17-19.05.02:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.17-19.05.02:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.17-19.05.02:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.17-19.05.02:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.17-19.05.02:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.17-19.05.02:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.17-19.05.02:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.17-19.05.02:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.17-19.05.02:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.17-19.05.02:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.17-19.05.02:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.17-19.05.02:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.17-19.05.02:140][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.17-19.05.02:149][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.17-19.05.02:187][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.17-19.05.02:222][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.17-19.05.02:222][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Intermediate/Shaders/WorkingDirectory/14956/).
+[2022.06.17-19.05.02:222][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/abroh/AppData/Local/Temp/UnrealShaderWorkingDir/24B5D7A649978BD09D49A5AA3E6B4917/'.
+[2022.06.17-19.05.02:222][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.17-19.05.02:222][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.17-19.05.02:222][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.17-19.05.03:221][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.17-19.05.03:287][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/abroh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.17-19.05.03:288][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/abroh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.17-19.05.03:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.17-19.05.03:288][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.17-19.05.03:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.17-19.05.03:288][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.17-19.05.03:307][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.17-19.05.03:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.17-19.05.03:307][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.17-19.05.03:318][  0]LogDerivedDataCache: Speed tests for C:/Users/abroh/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.17-19.05.03:318][  0]LogDerivedDataCache: Display: Performance to C:/Users/abroh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=231.59MBs, RandomWriteSpeed=159.04MBs. Assigned SpeedClass 'Local'
+[2022.06.17-19.05.03:318][  0]LogDerivedDataCache: Using Local data cache path C:/Users/abroh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.17-19.05.03:318][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.17-19.05.03:318][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.17-19.05.03:384][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.17-19.05.03:385][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.17-19.05.03:415][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2022.06.17-19.05.03:728][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.17-19.05.03:728][  0]LogInit: Active device profile: [0000028181332C00][00000281FCCC7A40 49] Windows
+[2022.06.17-19.05.03:729][  0]LogInit: Profiles: [0000028181332C00][00000281FCCC7A40 49] Windows, [00000281812CA000][00000281FCCCFBC0 49] WindowsNoEditor, [0000028181333900][00000281FCCD21C0 49] WindowsServer, [00000281812C9300][00000281FC2B2340 49] WindowsClient, [0000028181332B00][00000281FC2B64C0 49] IOS, [00000281812CB500][00000281FC2BA640 49] iPadAir, [0000028181330E00][00000281FC2BE7C0 49] iPadAir2, [000002818126D300][00000281FCCCAA40 49] IPadPro, [000002818126D400][00000281FC2C2A80 49] iPadAir3, [00000281812CB300][00000281FC2C6BC0 49] iPadAir4, [000002818126E200][00000281FC2CAD00 49] iPadMini2, [00000281812CAC00][00000281F5D6AE80 49] iPadMini3, [000002818126EE00][00000281F5D6F000 49] iPadMini4, [00000281812CA300][00000281F5D73180 49] iPadMini5, [00000281812B8E00][00000281F5D7B440 49] iPhone6, [00000281812B8F00][00000281F5D77480 49] iPodTouch6, [0000028181330300][00000281F5D83740 49] iPhone7, [0000028181331900][00000281F5D7F780 49] iPodTouch7, [000002818126F300][00000281F5D87900 49] iPhone5S, [0000028181332A00][00000281F5D8BA80 49] iPhone6Plus, [0000028181332F00][00000281F5D8FC00 49] iPhone6S, [00000281812B8700][00000281F5D92200 49] iPhone6SPlus, [0000028181332600][00000281F5D96380 49] iPhone7Plus, [00000281812BB000][00000281F5D9A500 49] iPhoneSE, [0000028181330F00][00000281F5DAE680 49] iPhone8, [00000281812B9400][00000281803F8800 49] iPhone8Plus, [000002818126D900][0000028181418980 49] iPhoneX, [00000281812B8D00][00000281FEB06B00 49] iPhoneXS, [000002818126DC00][00000281F5D66C40 49] iPhoneXSMax, [00000281812BB600][00000281FEB0AD80 49] iPhoneXR, [000002818126C300][00000281815E8EC0 49] iPhone11, [00000281812BA000][00000281816A1040 49] iPhone11Pro, [000002818126E800][00000281816A51C0 49] iPhone11ProMax, [00000281812BB100][00000281FEBAB340 49] iPhoneSE2, [000002818126CB00][00000281FEBB34C0 49] iPhone12Mini, [00000281812BA700][00000281FEBB7640 49] iPhone12, [000002818126D100][00000281FEBC37C0 49] iPhone12Pro, [00000281812B8400][00000281FEBC7940 49] iPhone12ProMax, [000002818126D700][00000281FEBCBAC0 49] iPadPro105, [00000281812B9200][00000281FEBCE0C0 49] iPadPro129, [000002818126F000][00000281FEBDA240 49] iPadPro97, [00000281812B9300][00000281FEB5C3C0 49] iPadPro2_129, [000002818126E900][00000281FEB96540 49] iPad5, [00000281812B8C00][00000281FEB9A6C0 49] iPad6, [000002818126ED00][00000281FEB9E840 49] iPad7, [00000281812BBC00][00000281FEBD29C0 49] iPad8, [000002818126E700][00000281FEBA2B40 49] iPadPro11, [00000281812B9D00][00000281FEBA6CC0 49] iPadPro2_11, [000002818126CD00][000002818169CE00 49] iPadPro3_129, [00000281812BAE00][000002818148AF40 49] iPadPro4_129, [000002818126EC00][0000028181591080 49] AppleTV, [00000281812BAD00][00000281815951C0 49] AppleTV4K, [000002818126E600][0000028181493340 49] TVOS, [00000281812B8100][00000281814974C0 49] Mac, [000002818126E500][000002818149B640 49] MacClient, [00000281812B8200][000002818149F7C0 49] MacNoEditor, [000002818126D000][00000281803F5940 49] MacServer, [00000281812B9500][00000281814A7AC0 49] Linux, [000002818126CC00][00000281FED0E0C0 49] LinuxAArch64, [00000281812B9600][00000281FED12240 49] LinuxNoEditor, [000002818126F500][00000281FED163C0 49] LinuxAArch64NoEditor, [00000281812B9100][00000281FED78540 49] LinuxClient, [000002818126CF00][00000281FEDD66C0 49] LinuxAArch64Client, [00000281812B8500][0000028181DD8840 49] LinuxServer, [000002818126EB00][0000028181DE49C0 49] LinuxAArch64Server, [00000281812B8800][0000028181E22B40 49] Android, [000002818126C500][0000028181EACCC0 49] Android_Low, [00000281812BAF00][0000028181EE0E40 49] Android_Mid, [000002818126FB00][000002818148EF80 49] Android_High, [00000281812BA200][0000028181F970C0 49] Android_Default, [000002818126FA00][0000028182023200 49] Android_Adreno4xx, [00000281812BBA00][0000028181969340 49] Android_Adreno5xx_Low, [000002818126E100][00000281819914C0 49] Android_Adreno5xx, [00000281812BB200][00000281819CD640 49] Android_Adreno6xx, [000002818126D500][00000281819D17C0 49] Android_Adreno6xx_Vulkan, [00000281812BB500][00000281819D5940 49] Android_Mali_T6xx, [000002818126C100][00000281819D9AC0 49] Android_Mali_T7xx, [00000281812B8A00][00000281819DC0C0 49] Android_Mali_T8xx, [000002818126F600][0000028181B64240 49] Android_Mali_G71, [0000028181330700][0000028181B683C0 49] Android_Mali_G72, [00000281812CB900][0000028181BDC540 49] Android_Mali_G72_Vulkan, [0000028181331A00][0000028181C086C0 49] Android_Mali_G76, [00000281812CAB00][0000028181C0C840 49] Android_Mali_G76_Vulkan, [0000028181332000][0000028181C109C0 49] Android_Mali_G77, [00000281812CAF00][0000028181C1AB40 49] Android_Mali_G77_Vulkan, [0000028181333C00][0000028182480CC0 49] Android_Mali_G78, [00000281812C8500][0000028182484E40 49] Android_Mali_G78_Vulkan, [0000028181332800][0000028182488FC0 49] Android_Mali_G710, [00000281812CBF00][000002818248D140 49] Android_Mali_G710_Vulkan, [0000028181332300][000002818198D280 49] Android_Vulkan_SM5, [00000281812CA700][00000281824913C0 49] Android_PowerVR_G6xxx, [0000028181330B00][0000028182495500 49] Android_PowerVR_GT7xxx, [00000281812CA500][000002818249D680 49] Android_PowerVR_GE8xxx, [0000028181331200][00000281824A1800 49] Android_PowerVR_GM9xxx, [00000281812C8200][00000281824F3980 49] Android_PowerVR_GM9xxx_Vulkan, [0000028181332700][00000281824F7B00 49] Android_TegraK1, [00000281812CB200][00000281824FA100 49] Android_Unknown_Vulkan, [0000028181333800][00000281824FE280 49] Lumin, [00000281812CB000][0000028182502400 49] Lumin_Desktop, [0000028181332200][0000028182506580 49] HoloLens, 
+[2022.06.17-19.05.03:910][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.17-19.05.03:910][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.17-19.05.03:910][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.17-19.05.03:910][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.17-19.05.03:910][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.17-19.05.03:933][  0]LogNetVersion: MPTopDownKit415 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 702812979)
+[2022.06.17-19.05.04:872][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.17-19.05.04:942][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.17-19.05.04:950][  0]LogUObjectArray: 17179 objects as part of root set at end of initial load.
+[2022.06.17-19.05.04:950][  0]LogUObjectAllocator: 4302256 out of 0 bytes used by permanent object pool.
+[2022.06.17-19.05.04:950][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.17-19.05.05:567][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 01D06A5D4A6001B97F6424BA8A167120 | Instance: 8EB8785C4D5A78B47B34608F1B954573 (LAPTOP-ELP859A4-14956).
+[2022.06.17-19.05.05:847][  0]LogPython: Using Python 3.7.7
+[2022.06.17-19.05.06:931][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.17-19.05.06:940][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.17-19.05.07:164][  0]SourceControl: Source control is disabled
+[2022.06.17-19.05.07:164][  0]SourceControl: Source control is disabled
+[2022.06.17-19.05.07:169][  0]SourceControl: Source control is disabled
+[2022.06.17-19.05.07:173][  0]SourceControl: Source control is disabled
+[2022.06.17-19.05.07:190][  0]SourceControl: Source control is disabled
+[2022.06.17-19.05.07:200][  0]LogUProjectInfo: Found projects:
+[2022.06.17-19.05.07:205][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.17-19.05.07:206][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.17-19.05.07:207][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.17-19.05.07:624][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.17-19.05.07:652][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.17-19.05.07:681][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.17-19.05.07:681][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.17-19.05.07:828][  0]LogCollectionManager: Loaded 0 collections in 0.002271 seconds
+[2022.06.17-19.05.07:853][  0]LogFileCache: Scanning file cache for directory 'C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/Collections/' took 0.00s
+[2022.06.17-19.05.07:853][  0]LogFileCache: Scanning file cache for directory 'C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Content/Developers/abroh/Collections/' took 0.00s
+[2022.06.17-19.05.07:853][  0]LogFileCache: Scanning file cache for directory 'C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Content/Collections/' took 0.00s
+[2022.06.17-19.05.07:853][  0]LogOcInput: OculusInput pre-init called
+[2022.06.17-19.05.08:308][  0]LogEngine: Initializing Engine...
+[2022.06.17-19.05.08:310][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.17-19.05.08:311][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.17-19.05.08:311][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.17-19.05.08:311][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.17-19.05.08:486][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.17-19.05.08:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.17-19.05.08:497][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.17-19.05.08:501][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.17-19.05.08:502][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.17-19.05.08:502][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.17-19.05.08:502][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-19.05.08:502][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-19.05.08:502][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-19.05.08:503][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-19.05.08:503][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-19.05.08:503][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-19.05.08:503][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-19.05.08:514][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-19.05.08:514][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-19.05.08:529][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.06.17-19.05.08:532][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-19.05.08:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-19.05.08:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-19.05.08:537][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-19.05.08:537][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-19.05.08:537][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-19.05.08:538][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-19.05.08:538][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-19.05.08:538][  0]LogInit: FAudioDevice initialized.
+[2022.06.17-19.05.08:538][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.17-19.05.08:539][  0]LogNetVersion: Set ProjectVersion to 1.3. Version Checksum will be recalculated on next use.
+[2022.06.17-19.05.08:630][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/abroh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.17-19.05.08:634][  0]LogInit: Texture streaming: Enabled
+[2022.06.17-19.05.08:650][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.06.17-19.05.08:655][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.17-19.05.08:655][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.17-19.05.08:658][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.17-19.05.08:691][  0]LogInit: Transaction tracking system initialized
+[2022.06.17-19.05.08:719][  0]BlueprintLog: New page: Editor Load
+[2022.06.17-19.05.08:825][  0]LocalizationService: Localization service is disabled
+[2022.06.17-19.05.08:862][  0]TimingProfiler: Initialize
+[2022.06.17-19.05.08:862][  0]TimingProfiler: OnSessionChanged
+[2022.06.17-19.05.08:862][  0]LoadingProfiler: Initialize
+[2022.06.17-19.05.08:863][  0]LoadingProfiler: OnSessionChanged
+[2022.06.17-19.05.08:863][  0]NetworkingProfiler: Initialize
+[2022.06.17-19.05.08:863][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.17-19.05.08:863][  0]MemoryProfiler: Initialize
+[2022.06.17-19.05.08:863][  0]MemoryProfiler: OnSessionChanged
+[2022.06.17-19.05.08:949][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.17-19.05.08:950][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.17-19.05.08:950][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.17-19.05.09:081][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.17-19.05.09:081][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.17-19.05.09:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Content/' took 0.01s
+[2022.06.17-19.05.09:620][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.17-19.05.09:624][  0]SourceControl: Source control is disabled
+[2022.06.17-19.05.09:624][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.067
+[2022.06.17-19.05.09:624][  0]Cmd: MAP LOAD FILE="../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Content/MPTopdownKit/Maps/MPTopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-19.05.09:624][  0]LightingResults: New page: Lighting Build
+[2022.06.17-19.05.09:626][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-19.05.09:626][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-19.05.09:626][  0]MapCheck: New page: Map Check
+[2022.06.17-19.05.09:626][  0]LightingResults: New page: Lighting Build
+[2022.06.17-19.05.09:632][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-19.05.09:635][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.06.17-19.05.09:812][  0]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\Items\ItemList.uasset: Failed to load '/Game/InventorySystem/Blueprints/Weapons/Weapon_Rifle_Assualt': Can't find file.
+[2022.06.17-19.05.09:812][  0]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\Items\ItemList.uasset: Failed to load '/Game/InventorySystem/Blueprints/Weapons/Weapon_Rifle_Assualt': Can't find file.
+[2022.06.17-19.05.09:812][  0]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\Items\ItemList.uasset: Failed to load '/Game/InventorySystem/Blueprints/Weapons/Weapon_Rifle_Assualt': Can't find file.
+[2022.06.17-19.05.10:308][  0]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\Blueprints\Components\InventoryManagerComponent.uasset: Failed to load '/Game/InventorySystem/Blueprints/Weapons/Weapon_Rifle_Assualt': Can't find file.
+[2022.06.17-19.05.10:308][  0]LoadErrors: Failed to load /Game/InventorySystem/Blueprints/Weapons/Weapon_Rifle_Assualt.Weapon_Rifle_Assualt_C Referenced by ItemList
+[2022.06.17-19.05.10:512][  0]LogClass: Warning: Enum '/Game/MPTopdownKit/Blueprints/GameState.GameState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2022.06.17-19.05.10:860][  0]LogBlueprint: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\Blueprints\FogOfWar\LightRadiusVolume.uasset: [Compiler] Input pin  Class Filter  specifying non-default value no longer exists on node  Get Overlapping Actors . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-19.05.12:404][  0]LogClass: Warning: Enum '/Game/MPTopdownKit/Blueprints/FocusColor.FocusColor' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2022.06.17-19.05.12:526][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\Items\Weapons\Meshes\SK_Weapon_Rifle_Assault.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.06.17-19.05.12:819][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MPTopDownExampleMap'.
+[2022.06.17-19.05.12:822][  0]LogAIModule: Creating AISystem for world MPTopDownExampleMap
+[2022.06.17-19.05.13:000][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-19.05.13:047][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.17-19.05.13:048][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-19.05.13:048][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,172ms to complete.
+[2022.06.17-19.05.13:048][  0]LogFileHelpers: Loading map 'MPTopDownExampleMap' took 3.424
+[2022.06.17-19.05.13:050][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.492
+[2022.06.17-19.05.13:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-19.05.13:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-19.05.13:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-19.05.13:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-19.05.13:222][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3822 classes and 928 folders.
+[2022.06.17-19.05.13:247][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.17-19.05.13:249][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.17-19.05.13:249][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.17-19.05.13:249][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:249][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.06.17-19.05.13:249][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.06.17-19.05.13:250][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.17-19.05.13:250][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.17-19.05.13:250][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:250][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.06.17-19.05.13:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.06.17-19.05.13:250][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.17-19.05.13:250][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.17-19.05.13:250][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:250][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.06.17-19.05.13:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.06.17-19.05.13:251][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.17-19.05.13:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.17-19.05.13:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.17-19.05.13:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.06.17-19.05.13:252][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.17-19.05.13:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.17-19.05.13:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.06.17-19.05.13:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.06.17-19.05.13:253][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.17-19.05.13:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.17-19.05.13:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.06.17-19.05.13:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.06.17-19.05.13:253][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.17-19.05.13:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.17-19.05.13:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.06.17-19.05.13:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.06.17-19.05.13:254][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.17-19.05.13:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.17-19.05.13:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.06.17-19.05.13:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.06.17-19.05.13:255][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.17-19.05.13:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.17-19.05.13:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.06.17-19.05.13:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.17-19.05.13:255][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.17-19.05.13:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.17-19.05.13:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.06.17-19.05.13:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.06.17-19.05.13:256][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.17-19.05.13:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.17-19.05.13:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.06.17-19.05.13:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.17-19.05.13:257][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.17-19.05.13:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.17-19.05.13:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.06.17-19.05.13:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.06.17-19.05.13:257][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.17-19.05.13:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.17-19.05.13:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.06.17-19.05.13:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.06.17-19.05.13:258][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.17-19.05.13:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.17-19.05.13:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.06.17-19.05.13:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.06.17-19.05.13:259][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.17-19.05.13:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.17-19.05.13:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.06.17-19.05.13:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.06.17-19.05.13:259][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.17-19.05.13:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.17-19.05.13:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.06.17-19.05.13:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.17-19.05.13:260][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.17-19.05.13:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.17-19.05.13:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.17-19.05.13:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.17-19.05.13:261][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.17-19.05.13:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.17-19.05.13:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.06.17-19.05.13:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.17-19.05.13:261][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.17-19.05.13:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.17-19.05.13:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.06.17-19.05.13:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.06.17-19.05.13:262][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.17-19.05.13:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.17-19.05.13:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.06.17-19.05.13:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.17-19.05.13:262][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.17-19.05.13:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.17-19.05.13:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.06.17-19.05.13:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.06.17-19.05.13:263][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.17-19.05.13:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.17-19.05.13:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.06.17-19.05.13:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.17-19.05.13:264][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.17-19.05.13:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.17-19.05.13:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.06.17-19.05.13:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.06.17-19.05.13:264][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.17-19.05.13:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.17-19.05.13:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.06.17-19.05.13:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.06.17-19.05.13:265][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.17-19.05.13:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.17-19.05.13:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.06.17-19.05.13:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.06.17-19.05.13:266][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.17-19.05.13:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.17-19.05.13:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.17-19.05.13:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.17-19.05.13:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.06.17-19.05.13:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.06.17-19.05.13:324][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.17-19.05.13:326][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.06.17-19.05.13:480][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.17-19.05.13:482][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.17-19.05.13:483][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.17-19.05.13:605][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 9 NumSamples 1 (Frame:1).
+[2022.06.17-19.05.14:608][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.17-19.05.14:699][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.17-19.05.14:699][  0]LogLoad: (Engine Initialization) Total time: 15.14 seconds
+[2022.06.17-19.05.14:699][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.17-19.05.14:773][  0]LogAssetRegistry: Asset discovery search completed in 11.3590 seconds
+[2022.06.17-19.05.14:779][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.06.17-19.05.14:781][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.06.17-19.05.14:921][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.17-19.05.19:624][ 77]LogSlate: Window 'Message Log' being destroyed
+[2022.06.17-19.05.19:629][ 77]LogSlate: Window 'Message Log' being destroyed
+[2022.06.17-19.05.26:871][148]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\MLK\Blueprints\Data\DT_ResolutionData.uasset: Failed to load '/Game/MLK/Blueprints/Structs/FResolutionData': Can't find file.
+[2022.06.17-19.05.26:871][148]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\MLK\Blueprints\Data\DT_ResolutionData.uasset: Failed to load '/Game/MLK/Blueprints/Structs/FResolutionData': Can't find file.
+[2022.06.17-19.05.26:872][148]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\MLK\Blueprints\Data\DT_ResolutionData.uasset: Failed to load '/Game/MLK/Blueprints/Structs/FResolutionData': Can't find file.
+[2022.06.17-19.05.26:920][148]LogLinker: Warning: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\MLK\Blueprints\Data\DT_ResolutionData.uasset: Failed to load '/Game/MLK/Blueprints/Structs/FResolutionData': Can't find file.
+[2022.06.17-19.05.26:920][148]LoadErrors: Failed to load /Game/MLK/Blueprints/Structs/FResolutionData.FResolutionData Referenced by DT_ResolutionData
+[2022.06.17-19.05.26:920][148]LogDataTable: Error: Missing RowStruct while emptying DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.05.26:920][148]LogDataTable: Error: Missing RowStruct while loading DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.05.26:930][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update View Distance Setting . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:930][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update View Distance Setting . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:930][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "UpdateViewDistanceSetting" in 'WB_MainMenu_Settings_C'.
+Make sure 'WB_MainMenu_Settings_C' has been compiled for  Update View Distance Setting
+[2022.06.17-19.05.26:933][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Resolution  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:933][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:933][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:933][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:933][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:934][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Fullscreen Mode  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:934][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:934][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:934][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:934][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:935][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:936][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:936][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:936][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:937][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Texture Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:938][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:938][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:939][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:939][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:939][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Shadow Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:940][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:940][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:940][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:940][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:940][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Effect Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:941][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:941][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:941][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:941][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:941][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:942][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:942][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:942][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:943][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:943][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:943][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:943][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:943][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:944][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.05.26:944][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.05.26:947][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.05.26:948][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.05.26:949][148]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.05.26:963][148]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.17-19.05.26:991][148]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MPTopdownKit/UI/Settings/WB_MainMenu_Settings.WB_MainMenu_Settings
+[2022.06.17-19.05.27:124][148]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.06.17-19.05.28:619][148]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.17-19.05.29:547][187]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.17-19.06.06:734][ 80]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.06.06:758][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update View Distance Setting . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:758][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update View Distance Setting . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:758][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "UpdateViewDistanceSetting" in 'WB_MainMenu_Settings_C'.
+Make sure 'WB_MainMenu_Settings_C' has been compiled for  Update View Distance Setting
+[2022.06.17-19.06.06:764][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Fullscreen Mode  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:764][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:765][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:765][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:765][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:766][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:767][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:767][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:767][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:767][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Texture Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:768][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:768][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:768][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:768][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:769][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Shadow Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:769][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:769][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:770][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:770][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:770][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Effect Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:771][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:771][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:771][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:771][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:771][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:772][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:773][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:773][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:773][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:773][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:774][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:774][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:774][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:774][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.06:774][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.06:779][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.06.06:779][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.06.06:780][ 80]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.06.06:860][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.06.17-19.06.21:271][898]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.06.21:281][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Fullscreen Mode  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:281][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:281][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:281][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:281][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:282][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:282][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:282][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:282][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:283][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Texture Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:283][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:283][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:283][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:283][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:284][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Shadow Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:284][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:284][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:285][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:285][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:285][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Effect Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:285][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:286][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:286][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:286][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:286][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:286][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:287][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:287][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:287][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:287][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:288][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:288][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:288][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:288][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.21:288][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.21:292][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.06.21:292][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.06.21:293][898]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.06.21:334][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.06.17-19.06.40:216][910]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.06.40:225][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:225][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:225][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:226][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.40:226][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Texture Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:226][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:226][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:227][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:227][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.40:227][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Shadow Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:227][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:227][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:228][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:228][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.40:228][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Effect Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:228][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:228][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:229][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:229][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.40:229][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:229][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:230][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:230][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:230][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.40:230][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:230][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:231][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:231][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:231][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.06.40:231][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.06.40:235][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.06.40:235][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.06.40:236][910]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.06.40:276][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.06.17-19.07.06:903][408]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.07.06:915][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:915][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:915][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:915][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.06:916][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Shadow Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:916][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:916][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:917][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:917][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.06:917][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Effect Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:918][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:918][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:918][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:918][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.06:919][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:919][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:919][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:920][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:920][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.06:920][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:921][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:921][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:921][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:921][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.06:921][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.06:926][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.07.06:926][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.07.06:927][408]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.07.06:973][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.06.17-19.07.17:282][979]LogEditorTransaction: Undo Delete current selection
+[2022.06.17-19.07.21:190][156]LogEditorTransaction: Undo Paste clipboard contents
+[2022.06.17-19.07.33:032][741]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.07.33:046][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:047][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:047][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:047][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.33:047][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Effect Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:048][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:048][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:048][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:048][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.33:049][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:049][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:049][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:050][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:050][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.33:050][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:051][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:051][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:051][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:051][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.07.33:051][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.07.33:056][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.07.33:056][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.07.33:057][741]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.07.33:104][741]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.06.17-19.07.33:682][759]LogSavePackage: Moving '../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/WB_MainMenu_Settings645BCEB5468F29FE359C54958D9D1F20.tmp' to '../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Content/MPTopdownKit/UI/Settings/WB_MainMenu_Settings.uasset'
+[2022.06.17-19.07.33:702][759]AssetCheck: New page: Asset Save: WB_MainMenu_Settings
+[2022.06.17-19.07.33:702][759]LogContentValidation: Display: Validating WidgetBlueprint /Game/MPTopdownKit/UI/Settings/WB_MainMenu_Settings.WB_MainMenu_Settings
+[2022.06.17-19.08.03:829][423]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.08.03:840][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:840][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:840][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:841][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.08.03:841][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Anti Aliasing  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:842][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:842][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:842][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:842][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.08.03:842][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:843][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:843][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:843][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:843][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.08.03:843][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.03:848][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.03:848][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.03:849][423]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.08.03:911][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2022.06.17-19.08.18:404][206]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.08.18:416][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:416][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:416][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:417][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.08.18:417][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Post Process Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:417][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:417][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:418][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:418][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.08.18:418][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.18:422][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.18:422][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.18:424][206]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.08.18:468][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.06.17-19.08.29:353][762]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.08.29:368][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.29:368][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.29:369][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  New Selection  no longer exists on node  Set Selected Option . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.29:369][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] Could not find a function named "SetSelectedOption" in 'WB_MainMenu_Settings'.
+Make sure 'WB_MainMenu_Settings' has been compiled for  Set Selected Option
+[2022.06.17-19.08.29:369][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] In use pin  WB HCB Foliage Quality  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.06.17-19.08.29:374][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.29:375][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.29:376][762]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.08.29:422][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.06.17-19.08.39:889][318]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.08.39:905][318]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.39:906][318]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.08.39:907][318]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.08.39:950][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.06.17-19.09.16:531][165]BlueprintLog: New page: Compile WB_MainMenu_Settings
+[2022.06.17-19.09.16:557][165]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.09.16:557][165]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The type of  Out Row  is undetermined.  Connect something to  Get Data Table Row DT_ResolutionData  to imply a specific type.
+[2022.06.17-19.09.16:558][165]LogBlueprint: Error: [AssetLog] C:\Users\abroh\OneDrive\Рабочий стол\Multiplayer Topdown Kit\data\Content\MPTopdownKit\UI\Settings\WB_MainMenu_Settings.uasset: [Compiler] The current value of the ' New Option ' pin is invalid: 'New Option' in action 'Add Option' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.17-19.09.16:606][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2022.06.17-19.09.39:994][489]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData
+[2022.06.17-19.09.43:495][489]LogSlate: Window 'Continue?' being destroyed
+[2022.06.17-19.09.43:501][489]Message dialog closed, result: Yes, title: Continue?, text: The following Data Tables are missing their row structure and will not be editable.
+
+    * DT_ResolutionData (Row Structure: FResolutionData)
+
+Do you want to open these data tables?
+[2022.06.17-19.10.28:333][339]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-19.10.28:333][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-19.10.28:343][339]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-19.10.28:344][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-19.10.31:250][493]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Structs/FResolutionData.FResolutionData
+[2022.06.17-19.10.47:557][852]LogSavePackage: Moving '../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Saved/FResolutionDataEEF798E34EAD46060B28539AFD4E4857.tmp' to '../../../../../../Users/abroh/OneDrive/Рабочий стол/Multiplayer Topdown Kit/data/Content/MPTopdownKit/UI/Settings/MLK/Blueprints/Structs/FResolutionData.uasset'
+[2022.06.17-19.10.47:582][852]AssetCheck: New page: Asset Save: FResolutionData
+[2022.06.17-19.10.47:582][852]LogContentValidation: Display: Validating UserDefinedStruct /Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Structs/FResolutionData.FResolutionData
+[2022.06.17-19.12.48:686][779]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.12.48:686][779]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.12.49:653][835]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.12.49:653][835]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.13.49:900][ 37]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.13.49:900][ 37]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
+[2022.06.17-19.13.49:901][ 37]LogDataTable: Error: Missing RowStruct while saving DataTable '/Game/MPTopdownKit/UI/Settings/MLK/Blueprints/Data/DT_ResolutionData.DT_ResolutionData'!
